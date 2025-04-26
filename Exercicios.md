@@ -1,6 +1,6 @@
-#EXERCÍCIOS MONGODB
+# EXERCÍCIOS MONGODB
 
-##EXERCÍCIO 1:
+## EXERCÍCIO 1:
 
 Clientes: Insira os seguintes clientes na coleção **client**:
 
